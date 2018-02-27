@@ -7,13 +7,7 @@ name: "KOMBUCH.ar/nl.GENOMICS"
 # Name author (displayed in the header)
 by: "by Laura Olalde"
 description: "KOMBUCH.ar/nl.GENOMICS is part of KOMBUCHA GENOMICS, 
-a joint project between BioCurious and Counter Culture Labs.  
-As a syntesis, this project aims to isolate and identify the microorganisms 
-that conforms the komobucha as well as to make trials changing growing media 
-conditions in order to obtain different kombucha leather qualities and to use 
-some of the isolated microorganism to make other fermented foods. it is expected 
-to count on a protocol to develop the project in educational programmes, using DIY hardware."
-
+a joint project between BioCurious and Counter Culture Labs." 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
