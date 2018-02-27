@@ -3,9 +3,9 @@ layout: post
 title: first post
 ---
 
-# KOMBUCH.ar Consortium
+# KOMBUCH.ar/nl.GENOMICS
 
-## A communitary project associated with Kombucha Genomics
+## A communitary project associated with KOMBUCHA GENOMICS
 
 This is my first post as a user a of a github documentation page. So it is just a trial version... be patient!.
 
