@@ -1,9 +1,9 @@
 ---
 layout: post
-title: KOMBUCH.ar/nl.GENOMICS - project documentation by Laura Olalde
+title: 
 ---
 
-# KOMBUCH.ar/nl.GENOMICS
+# KOMBUCH.ar/nl.GENOMICS - project documentation by Laura Olalde
 
 ## A communitary project associated with *KOMBUCHA GENOMICS* a joint project between **BioCurious and Counter Culture Labs**
 **KOMBUCHA GENOMICS** project aims to select, describe, isolate and identify the microorganisms that conform the kombucha *consortium* of yeast and bacteria, as well as to make variations in its fermentation medium in order to obtain different qualities in the kombucha leathers. In the roadmap, the use of some of the isolates for new fermented foods is another goal of this project. 
