@@ -1,18 +1,13 @@
 ---
 layout: post
-title: first post
+title: KOMBUCH.ar/nl.GENOMICS - project documentation by Laura Olalde
 ---
 
 # KOMBUCH.ar/nl.GENOMICS
 
-## A communitary project associated with KOMBUCHA GENOMICS
-
-**Kombucha Genomics** is the main title of a project run by Counter Culture Lab and Biocurious and several communitary labs from different countries. I will base my own artistic project on it at the Bio Hack Academy following it protocol and making my own long way around to the material aspect of kombucha leather. 
-
-**KOMBUCH.ar/nl.GENOMICS** is part of **KOMBUCHA GENOMICS**, a joint project between **BioCurious and Counter Culture Labs** and other communitary labs from different countries.  
-As a summary, this main project aims to isolate and identify the microorganisms 
-that conforms the kombucha as well as to make variations in its fermentation medium 
-in order to obtain different kombucha leathers. In the roadmap, the use of some of the isolates for new fermentations of other foods is a plus of this project. It is expected as well to contribute during the project to its documentation with emphasis on the DIY open science hardware, looking forward to spread the project in educational programmes.
+## A communitary project associated with *KOMBUCHA GENOMICS* a joint project between **BioCurious and Counter Culture Labs**
+**KOMBUCHA GENOMICS** project aims to select, describe, isolate and identify the microorganisms that conform the kombucha *consortium* of yeast and bacteria, as well as to make variations in its fermentation medium in order to obtain different qualities in the kombucha leathers. In the roadmap, the use of some of the isolates for new fermented foods is another goal of this project. 
+**KOMBUCH.ar/nl** is the itinerant expression of this project, now in The Netherlands, just after setting the project in Argentina where I live and work. As part of the 5th Biohack Academy Programme at the WAAG Society, I expect to emphasize into the project the making of open science hardware, looking forward to make the project accesible for a major community and to replicate it in educational programmes.
 
 **bold**
 
