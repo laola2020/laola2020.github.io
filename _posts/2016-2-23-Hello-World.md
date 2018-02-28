@@ -16,4 +16,4 @@ in order to obtain different kombucha leathers. In the roadmap, the use of some 
 
 **bold**
 
-[github.com/laola2020/laola2020.github.io](www.google.com)
+[laola2020.github.io](www.google.com)
