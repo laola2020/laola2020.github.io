@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About this project
-permalink: /About this project/
+title: about
+permalink: /about/
 ---
 
 This is the BioHack Academy documentation site of "KOMBUCH.ar/nl.GENOMICS" a nomadic argentinian version of KOMBUCHA GENOMICS, a joint project between Counter Culture Labs and BioCurious. 
