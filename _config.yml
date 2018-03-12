@@ -1,8 +1,7 @@
 #
 # This file contains configuration flags to customize your site
 #
----
----
+
 # Name of your site (displayed in the header)
 name: "KOMBUCH.ar/nl.GENOMICS"
 # Name author (displayed in the header)
@@ -11,6 +10,8 @@ description: "KOMBUCH.ar/nl.GENOMICS is part of KOMBUCHA GENOMICS,
 a joint project between BioCurious and Counter Culture Labs." 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
+
+
 avatar: https://laola2020.github.io/images/logo.JPG
 
 #
