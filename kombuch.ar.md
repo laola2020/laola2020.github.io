@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Kombucha Genomics Argentina
+title: KOMBUCH.ar
 permalink: /kombucha-genomics-argentina/
 ---
