@@ -4,5 +4,4 @@ title: Changing Skin
 permalink: /changing-skin/
 ---
 
-
-![an image alt text](laola2020.github.io/images/logo_web.jpg "under construction")
+![an image alt text](laola2020.github.io/images/logo_web.jpg "an image title")
