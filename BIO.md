@@ -3,7 +3,8 @@ layout: page
 title: BIO
 permalink: /bio/
 ---
-LAURA OLALDE- bio 
+**LAURA OLALDE**
+
 I’m a visual artist based in Buenos Aires, Argentina where I live and work. I graduated in Fine Arts, in the specialization of painting. In 2016 I got a Masters Degree in Electronic Arts and my Tesis research was based on sci-art coproduction. 
 Since 2011, I’m involved with bioart practices. In 2012, I exhibited __Quorum Sensing__ in Fundación Telefónica, Argentina. It consisted of an interactive immersive experience with bioluminescent microorganisms (vibrio fischeri), as a result of the research and development of the project during Interactivos'11. In 2012 I received a production grant as mentor of my project __Ophiodea__, inspired by compound eyes in nature. It was exhibited at Ljudmila Medialab, Ljubljana, Slovenia, during the “Interactivos’12” workshop, organized by Medialab Prado, the Swiss Mechatronics art Society and Ljudmila Medialab. 
 Since 2013, I’m part of PROTEUS, a sci-art collective formed with molecular biologists and social scientists, awarded in 2015 for the installation __Introversión Dogmática__, a representation of the interaction between DNA and Histone proteins. 
